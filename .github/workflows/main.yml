@@ -1,0 +1,42 @@
+name: Update Configs
+permissions: write-all
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+   - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch: 
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: cd Files && pip install -r requirements.txt
+
+    - name: Run Python script and save output to file
+      run: cd Files && python app.py
+      
+
+    - name: Commit and push files
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "FereydoonEisapour"
+        author_email: "epfereydoon@gmail.com"
+        message: "new server🎉🎉"
+        add: "."
+        push: "https://github.com/FereydoonEisapour/Telegram-configs.git"
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
