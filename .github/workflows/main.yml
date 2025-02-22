@@ -24,10 +24,10 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: cd Files && pip install -r requirements.txt
+      run:  pip install -r requirements.txt
 
     - name: Run Python script and save output to file
-      run: cd Files && python app.py
+      run:  python app.py
       
 
     - name: Commit and push files
