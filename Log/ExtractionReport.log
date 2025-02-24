@@ -1,34 +1,34 @@
 === Server Type Summary New ===
-VMESS        Servers: 10
-VLESS        Servers: 41
-SS           Servers: 10
-TROJAN       Servers: 8
+VMESS        Servers: 16
+VLESS        Servers: 35
+SS           Servers: 6
+TROJAN       Servers: 9
 TUIC         Servers: 0
 
 === Server Type Summary All ===
-VMESS        Servers: 135
-VLESS        Servers: 323
-SS           Servers: 92
-TROJAN       Servers: 88
+VMESS        Servers: 151
+VLESS        Servers: 358
+SS           Servers: 98
+TROJAN       Servers: 97
 TUIC         Servers: 0
 
 === Extraction Summary New ===
-Total Extracted Servers: 69
+Total Extracted Servers: 66
 Successful Channels:     9
 Failed Channels:         0
 
 === Extraction Summary All ===
-Total Extracted Servers: 117
+Total Extracted Servers: 135
 Successful Channels:     18
 Failed Channels:         0
 
 === Channel Statistics ================== 
 Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
 https://t.me/s/poroxybaz           :      19     ===      19     ===     1    ===   0   
-https://t.me/s/ConfigsHUB2         :      16     ===      16     ===     1    ===   0   
-https://t.me/s/FarahVPN            :      13     ===      13     ===     1    ===   0   
+https://t.me/s/ConfigsHUB2         :      12     ===      12     ===     1    ===   0   
 https://t.me/s/v2ray_free_conf     :      12     ===      12     ===     1    ===   0   
-https://t.me/s/vpns                :      8      ===      8      ===     1    ===   0   
+https://t.me/s/vpns                :      12     ===      12     ===     1    ===   0   
+https://t.me/s/FarahVPN            :      10     ===      10     ===     1    ===   0   
 https://t.me/s/chanel_v2ray_2      :      1      ===      1      ===     1    ===   0   
 https://t.me/s/AzadNet             :      0      ===      0      ===     1    ===   0   
 https://t.me/s/Hope_Netnode        :      0      ===      0      ===     1    ===   0   
