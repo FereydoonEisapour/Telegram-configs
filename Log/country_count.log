@@ -1,39 +1,40 @@
-All servers: 750
-Successful: 2231
-Failed: 249
+All servers: 797
+Successful: 2599
+Failed: 262
 ===== Countries =====
-United States: 415
-Germany: 393
-France: 253
-Sweden: 140
-Lithuania: 122
-United Kingdom: 117
-Finland: 114
-Ireland: 114
-Japan: 87
-United Arab Emirates: 64
-Iran: 51
-The Netherlands: 40
-Moldova: 37
-Poland: 35
-Cyprus: 24
-Russia: 24
-Singapore: 23
-South Korea: 21
-Ukraine: 19
-Spain: 19
-Gibraltar: 17
-Canada: 16
-Seychelles: 15
-Serbia: 12
-Austria: 9
-China: 9
-Indonesia: 9
-Armenia: 7
-Hong Kong: 7
-Switzerland: 6
-Vietnam: 4
-Estonia: 3
-Bolivia: 3
-Slovenia: 2
+United States: 470
+Germany: 461
+France: 301
+Sweden: 169
+Lithuania: 140
+Ireland: 136
+United Kingdom: 135
+Finland: 133
+Japan: 101
+United Arab Emirates: 76
+Iran: 60
+The Netherlands: 48
+Moldova: 42
+Poland: 41
+Russia: 29
+Cyprus: 27
+Singapore: 27
+South Korea: 23
+Ukraine: 21
+Spain: 21
+Gibraltar: 20
+Canada: 18
+Seychelles: 17
+Serbia: 13
+Austria: 10
+China: 10
+Indonesia: 10
+Armenia: 8
+Hong Kong: 8
+Switzerland: 7
+Vietnam: 5
+Estonia: 4
+Bolivia: 4
+Slovenia: 3
+Australia: 1
 Failed: 0
