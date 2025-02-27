@@ -1,35 +1,35 @@
 === Server Type Summary New ===
-VMESS        Servers: 8
-VLESS        Servers: 39
-SS           Servers: 9
-TROJAN       Servers: 8
+VMESS        Servers: 3
+VLESS        Servers: 29
+SS           Servers: 12
+TROJAN       Servers: 11
 TUIC         Servers: 0
 
 === Server Type Summary All ===
-VMESS        Servers: 271
-VLESS        Servers: 664
-SS           Servers: 195
-TROJAN       Servers: 188
+VMESS        Servers: 274
+VLESS        Servers: 693
+SS           Servers: 207
+TROJAN       Servers: 199
 TUIC         Servers: 0
 
 === Extraction Summary New ===
-Total Extracted Servers: 64
+Total Extracted Servers: 55
 Successful Channels:     9
 Failed Channels:         0
 
 === Extraction Summary All ===
-Total Extracted Servers: 114
+Total Extracted Servers: 119
 Successful Channels:     18
 Failed Channels:         0
 
 === Channel Statistics ================== 
 Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
-https://t.me/s/poroxybaz           :      19     ===      19     ===     1    ===   0   
-https://t.me/s/ConfigsHUB2         :      13     ===      13     ===     1    ===   0   
-https://t.me/s/vpns                :      12     ===      12     ===     1    ===   0   
-https://t.me/s/FarahVPN            :      10     ===      10     ===     1    ===   0   
-https://t.me/s/v2ray_free_conf     :      9      ===      9      ===     1    ===   0   
-https://t.me/s/chanel_v2ray_2      :      1      ===      1      ===     1    ===   0   
+https://t.me/s/poroxybaz           :      20     ===      20     ===     1    ===   0   
+https://t.me/s/v2ray_free_conf     :      10     ===      10     ===     1    ===   0   
+https://t.me/s/FarahVPN            :      9      ===      9      ===     1    ===   0   
+https://t.me/s/vpns                :      9      ===      9      ===     1    ===   0   
+https://t.me/s/ConfigsHUB2         :      7      ===      7      ===     1    ===   0   
 https://t.me/s/AzadNet             :      0      ===      0      ===     1    ===   0   
 https://t.me/s/Hope_Netnode        :      0      ===      0      ===     1    ===   0   
+https://t.me/s/chanel_v2ray_2      :      0      ===      0      ===     1    ===   0   
 https://t.me/s/vpnfail_v2ray       :      0      ===      0      ===     1    ===   0   
