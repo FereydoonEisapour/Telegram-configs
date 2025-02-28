@@ -1,34 +1,34 @@
 === Server Type Summary New ===
 VMESS        Servers: 11
 VLESS        Servers: 34
-SS           Servers: 14
+SS           Servers: 12
 TROJAN       Servers: 7
 TUIC         Servers: 0
 
 === Server Type Summary All ===
-VMESS        Servers: 300
-VLESS        Servers: 768
-SS           Servers: 245
-TROJAN       Servers: 223
+VMESS        Servers: 311
+VLESS        Servers: 802
+SS           Servers: 257
+TROJAN       Servers: 230
 TUIC         Servers: 0
 
 === Extraction Summary New ===
-Total Extracted Servers: 66
+Total Extracted Servers: 64
 Successful Channels:     9
 Failed Channels:         0
 
 === Extraction Summary All ===
-Total Extracted Servers: 114
+Total Extracted Servers: 130
 Successful Channels:     18
 Failed Channels:         0
 
 === Channel Statistics ================== 
 Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
-https://t.me/s/poroxybaz           :      20     ===      20     ===     1    ===   0   
-https://t.me/s/ConfigsHUB2         :      15     ===      15     ===     1    ===   0   
-https://t.me/s/vpns                :      12     ===      12     ===     1    ===   0   
-https://t.me/s/v2ray_free_conf     :      11     ===      11     ===     1    ===   0   
-https://t.me/s/FarahVPN            :      7      ===      7      ===     1    ===   0   
+https://t.me/s/poroxybaz           :      18     ===      18     ===     1    ===   0   
+https://t.me/s/v2ray_free_conf     :      14     ===      14     ===     1    ===   0   
+https://t.me/s/ConfigsHUB2         :      12     ===      12     ===     1    ===   0   
+https://t.me/s/vpns                :      11     ===      11     ===     1    ===   0   
+https://t.me/s/FarahVPN            :      8      ===      8      ===     1    ===   0   
 https://t.me/s/chanel_v2ray_2      :      1      ===      1      ===     1    ===   0   
 https://t.me/s/AzadNet             :      0      ===      0      ===     1    ===   0   
 https://t.me/s/Hope_Netnode        :      0      ===      0      ===     1    ===   0   
