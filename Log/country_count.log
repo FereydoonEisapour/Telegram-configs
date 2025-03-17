@@ -1,74 +1,74 @@
-All servers: 5380
-Successful: 130715
-Failed: 2535
+All servers: 5440
+Successful: 133596
+Failed: 2559
 ===== Countries =====
-Germany: 24288
-United States: 22321
-France: 16611
-Finland: 8721
-Sweden: 8717
-Ireland: 8258
-Lithuania: 5538
-United Kingdom: 4986
-Japan: 3663
-The Netherlands: 3157
-Poland: 2847
-United Arab Emirates: 2817
-Iran: 1858
-Singapore: 1641
-Hong Kong: 1615
-Italy: 1281
-Russia: 1020
-Spain: 929
-South Korea: 908
-Cyprus: 892
-Moldova: 821
-Slovenia: 705
-Philippines: 582
-Bahrain: 573
-Türkiye: 471
-Armenia: 445
-Switzerland: 419
-Gibraltar: 389
-Canada: 367
-India: 358
-China: 263
-Austria: 251
-Vietnam: 242
-Ukraine: 236
-Taiwan: 210
-Estonia: 206
-Thailand: 200
-Seychelles: 179
-Indonesia: 168
-Bolivia: 153
-Iceland: 152
-South Africa: 148
-Australia: 101
-Serbia: 94
-Kazakhstan: 85
-Chile: 80
-Bosnia and Herzegovina: 77
-Colombia: 67
-Peru: 58
-Puerto Rico: 56
-Brazil: 54
-Israel: 46
-Ecuador: 41
-Belarus: 34
-Denmark: 34
-Myanmar: 33
-Mexico: 33
-Portugal: 32
-Romania: 30
-Greece: 27
-Nigeria: 26
-Guatemala: 23
-Costa Rica: 15
-North Macedonia: 15
-Croatia: 14
-Saudi Arabia: 13
-Malaysia: 10
-Luxembourg: 9
-Belgium: 2
+Germany: 24821
+United States: 22833
+France: 16977
+Finland: 8906
+Sweden: 8901
+Ireland: 8433
+Lithuania: 5655
+United Kingdom: 5098
+Japan: 3748
+The Netherlands: 3232
+Poland: 2925
+United Arab Emirates: 2864
+Iran: 1893
+Singapore: 1679
+Hong Kong: 1655
+Italy: 1304
+Russia: 1042
+Spain: 947
+South Korea: 926
+Cyprus: 908
+Moldova: 836
+Slovenia: 722
+Philippines: 597
+Bahrain: 585
+Türkiye: 486
+Armenia: 453
+Switzerland: 434
+Gibraltar: 395
+Canada: 374
+India: 368
+China: 268
+Austria: 261
+Vietnam: 245
+Ukraine: 239
+Taiwan: 216
+Estonia: 210
+Thailand: 204
+Seychelles: 181
+Indonesia: 170
+Iceland: 156
+Bolivia: 155
+South Africa: 150
+Australia: 104
+Serbia: 95
+Kazakhstan: 87
+Chile: 81
+Bosnia and Herzegovina: 78
+Colombia: 68
+Peru: 60
+Puerto Rico: 57
+Brazil: 55
+Israel: 47
+Ecuador: 42
+Belarus: 35
+Denmark: 35
+Mexico: 35
+Myanmar: 34
+Portugal: 34
+Romania: 31
+Greece: 29
+Nigeria: 27
+Guatemala: 24
+Costa Rica: 16
+North Macedonia: 16
+Croatia: 16
+Saudi Arabia: 14
+Malaysia: 11
+Luxembourg: 10
+Belgium: 3
 Failed: 0
