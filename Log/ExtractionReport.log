@@ -1,35 +1,35 @@
 === Server Type Summary New ===
-VMESS        Servers: 9
-VLESS        Servers: 21
-SS           Servers: 15
-TROJAN       Servers: 16
+VMESS        Servers: 4
+VLESS        Servers: 8
+SS           Servers: 4
+TROJAN       Servers: 9
 TUIC         Servers: 0
 
 === Server Type Summary All ===
-VMESS        Servers: 1032
-VLESS        Servers: 311
-SS           Servers: 1142
-TROJAN       Servers: 997
+VMESS        Servers: 1036
+VLESS        Servers: 319
+SS           Servers: 1146
+TROJAN       Servers: 1006
 TUIC         Servers: 0
 
 === Extraction Summary New ===
-Total Extracted Servers: 61
+Total Extracted Servers: 25
 Successful Channels:     11
 Failed Channels:         0
 
 === Extraction Summary All ===
-Total Extracted Servers: 112
+Total Extracted Servers: 86
 Successful Channels:     22
 Failed Channels:         0
 
 === Channel Statistics ================== 
 Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
-https://t.me/s/Hope_Net            :      16     ===      16     ===     1    ===   0   
-https://t.me/s/v2ray_free_conf     :      16     ===      16     ===     1    ===   0   
-https://t.me/s/FarahVPN            :      12     ===      12     ===     1    ===   0   
-https://t.me/s/ConfigsHUB2         :      10     ===      10     ===     1    ===   0   
-https://t.me/s/vmess_ir            :      4      ===      4      ===     1    ===   0   
-https://t.me/s/vmesc               :      3      ===      3      ===     1    ===   0   
+https://t.me/s/Hope_Net            :      8      ===      8      ===     1    ===   0   
+https://t.me/s/FarahVPN            :      6      ===      6      ===     1    ===   0   
+https://t.me/s/v2ray_free_conf     :      6      ===      6      ===     1    ===   0   
+https://t.me/s/ConfigsHUB2         :      3      ===      3      ===     1    ===   0   
+https://t.me/s/vmesc               :      1      ===      1      ===     1    ===   0   
+https://t.me/s/vmess_ir            :      1      ===      1      ===     1    ===   0   
 https://t.me/s/V2aryng_vpn         :      0      ===      0      ===     1    ===   0   
 https://t.me/s/V2ra_ng_iran        :      0      ===      0      ===     1    ===   0   
 https://t.me/s/kingofilter         :      0      ===      0      ===     1    ===   0   
