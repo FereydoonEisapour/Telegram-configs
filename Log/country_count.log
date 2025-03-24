@@ -1,76 +1,77 @@
-All servers: 3988
-Successful: 186501
-Failed: 1724
+All servers: 4037
+Successful: 188789
+Failed: 1749
 ===== Countries =====
-Germany: 33589
-United States: 29951
-France: 24789
-Sweden: 12817
-Ireland: 11984
-Finland: 9986
-Lithuania: 8781
-United Kingdom: 7471
-Japan: 5586
-The Netherlands: 4707
-Poland: 4289
-United Arab Emirates: 4034
-Hong Kong: 2840
-Singapore: 2783
-Iran: 2094
-Russia: 1546
-Italy: 1424
-Spain: 1408
-South Korea: 1380
-Cyprus: 1264
-Moldova: 1217
-Slovenia: 1125
-Bahrain: 899
-Türkiye: 833
-Philippines: 712
-Switzerland: 699
-India: 575
-Canada: 574
-Austria: 556
-Gibraltar: 546
-Armenia: 540
-China: 472
-Taiwan: 366
-Ukraine: 336
-Vietnam: 320
-Estonia: 310
-Thailand: 304
-Iceland: 274
-Indonesia: 236
-Seychelles: 231
-Bolivia: 205
-Australia: 204
-South Africa: 200
-Mexico: 147
-Kazakhstan: 137
-Serbia: 128
-Peru: 110
-Colombia: 109
-Chile: 106
-Denmark: 106
-Bosnia and Herzegovina: 103
-Greece: 92
-Portugal: 84
-Ecuador: 84
-Puerto Rico: 82
-Croatia: 66
-Costa Rica: 61
-Belarus: 60
-North Macedonia: 60
-Myanmar: 59
-Guatemala: 59
+Germany: 33957
+United States: 30244
+France: 25137
+Sweden: 12981
+Ireland: 12129
+Finland: 10034
+Lithuania: 8916
+United Kingdom: 7577
+Japan: 5676
+The Netherlands: 4775
+Poland: 4344
+United Arab Emirates: 4082
+Hong Kong: 2898
+Singapore: 2832
+Iran: 2102
+Russia: 1571
+Spain: 1427
+Italy: 1427
+South Korea: 1402
+Cyprus: 1279
+Moldova: 1232
+Slovenia: 1141
+Bahrain: 912
+Türkiye: 849
+Philippines: 719
+Switzerland: 712
+Canada: 584
+India: 584
+Austria: 569
+Gibraltar: 552
+Armenia: 544
+China: 481
+Taiwan: 372
+Ukraine: 341
+Vietnam: 323
+Estonia: 314
+Thailand: 308
+Iceland: 279
+Indonesia: 239
+Seychelles: 233
+Australia: 208
+Bolivia: 207
+South Africa: 202
+Mexico: 152
+Kazakhstan: 139
+Serbia: 131
+Peru: 112
+Colombia: 111
+Denmark: 109
+Chile: 107
+Bosnia and Herzegovina: 104
+Greece: 95
+Ecuador: 88
+Portugal: 86
+Puerto Rico: 83
+Croatia: 68
+Costa Rica: 63
+North Macedonia: 62
+Belarus: 61
+Guatemala: 61
+Myanmar: 60
 Brazil: 58
-Romania: 56
-Malaysia: 54
-Nigeria: 52
-Saudi Arabia: 52
+Romania: 57
+Malaysia: 56
+Saudi Arabia: 54
+Nigeria: 53
 Israel: 50
-Belgium: 28
-Jordan: 18
+Belgium: 29
+Jordan: 19
 Luxembourg: 13
-Czechia: 10
+Czechia: 12
+Qatar: 1
 Failed: 0
