@@ -1,34 +1,34 @@
 === Server Type Summary New ===
 VMESS        Servers: 6
 VLESS        Servers: 14
-SS           Servers: 3
-TROJAN       Servers: 3
+SS           Servers: 6
+TROJAN       Servers: 2
 TUIC         Servers: 0
 
 === Server Type Summary All ===
-VMESS        Servers: 1337
-VLESS        Servers: 1191
-SS           Servers: 1434
-TROJAN       Servers: 1202
+VMESS        Servers: 1343
+VLESS        Servers: 1205
+SS           Servers: 1440
+TROJAN       Servers: 1204
 TUIC         Servers: 0
 
 === Extraction Summary New ===
-Total Extracted Servers: 26
+Total Extracted Servers: 28
 Successful Channels:     11
 Failed Channels:         0
 
 === Extraction Summary All ===
-Total Extracted Servers: 61
+Total Extracted Servers: 54
 Successful Channels:     22
 Failed Channels:         0
 
 === Channel Statistics ================== 
 Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
-https://t.me/s/FarahVPN            :      9      ===      9      ===     1    ===   0   
-https://t.me/s/v2ray_free_conf     :      8      ===      8      ===     1    ===   0   
-https://t.me/s/ConfigsHUB2         :      5      ===      5      ===     1    ===   0   
-https://t.me/s/vmesc               :      2      ===      2      ===     1    ===   0   
-https://t.me/s/vmess_ir            :      2      ===      2      ===     1    ===   0   
+https://t.me/s/FarahVPN            :      11     ===      11     ===     1    ===   0   
+https://t.me/s/v2ray_free_conf     :      7      ===      7      ===     1    ===   0   
+https://t.me/s/vmesc               :      4      ===      4      ===     1    ===   0   
+https://t.me/s/ConfigsHUB2         :      3      ===      3      ===     1    ===   0   
+https://t.me/s/vmess_ir            :      3      ===      3      ===     1    ===   0   
 https://t.me/s/Hope_Net            :      0      ===      0      ===     1    ===   0   
 https://t.me/s/V2aryng_vpn         :      0      ===      0      ===     1    ===   0   
 https://t.me/s/V2ra_ng_iran        :      0      ===      0      ===     1    ===   0   
