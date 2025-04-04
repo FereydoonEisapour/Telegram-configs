@@ -1,0 +1,37 @@
+=== Server Type Summary New ===
+VMESS        Servers: 23
+VLESS        Servers: 90
+SS           Servers: 27
+TROJAN       Servers: 12
+TUIC         Servers: 0
+
+=== Server Type Summary All ===
+VMESS        Servers: 23
+VLESS        Servers: 90
+SS           Servers: 27
+TROJAN       Servers: 12
+TUIC         Servers: 0
+
+=== Extraction Summary New ===
+Total Extracted Servers: 152
+Successful Channels:     11
+Failed Channels:         0
+
+=== Extraction Summary All ===
+Total Extracted Servers: 152
+Successful Channels:     11
+Failed Channels:         0
+
+=== Channel Statistics ================== 
+Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
+https://t.me/s/ConfigsHUB2         :      20     ===      20     ===     1    ===   0   
+https://t.me/s/Hope_Net            :      20     ===      20     ===     1    ===   0   
+https://t.me/s/v2ray_free_conf     :      20     ===      20     ===     1    ===   0   
+https://t.me/s/vmesc               :      20     ===      20     ===     1    ===   0   
+https://t.me/s/vmess_ir            :      19     ===      19     ===     1    ===   0   
+https://t.me/s/FarahVPN            :      17     ===      17     ===     1    ===   0   
+https://t.me/s/vmesskhodam         :      15     ===      15     ===     1    ===   0   
+https://t.me/s/V2ra_ng_iran        :      10     ===      10     ===     1    ===   0   
+https://t.me/s/kingofilter         :      6      ===      6      ===     1    ===   0   
+https://t.me/s/V2aryng_vpn         :      5      ===      5      ===     1    ===   0   
+https://t.me/s/v2rayngri           :      0      ===      0      ===     1    ===   0   
