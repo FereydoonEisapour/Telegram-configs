@@ -1,56 +1,57 @@
-All servers: 1370
-Successful: 10748
-Failed: 664
+All servers: 1414
+Successful: 11472
+Failed: 690
 ===== Countries =====
-United States: 1747
-France: 1543
-Germany: 1406
-The Netherlands: 1325
-Lithuania: 749
-Iran: 401
-United Kingdom: 400
-Finland: 281
-Poland: 261
-Ireland: 251
-Sweden: 241
-Czechia: 203
-Japan: 184
-Singapore: 181
-Russia: 164
-Canada: 138
-Türkiye: 136
-Switzerland: 127
-Spain: 103
-Italy: 91
-United Arab Emirates: 82
-Moldova: 76
-Austria: 75
-Greece: 62
-Estonia: 51
-South Korea: 45
-Israel: 35
-Luxembourg: 30
-India: 29
-Malaysia: 27
-Ecuador: 27
-Argentina: 27
-Serbia: 26
-Cyprus: 22
-Taiwan: 21
-Mexico: 18
-Indonesia: 17
-Thailand: 17
-Bahrain: 16
-China: 15
-Brazil: 15
-Romania: 13
-Bolivia: 13
-Slovenia: 11
-Seychelles: 11
-Myanmar: 9
+United States: 1860
+France: 1650
+Germany: 1510
+The Netherlands: 1405
+Lithuania: 799
+United Kingdom: 428
+Iran: 425
+Finland: 301
+Poland: 279
+Ireland: 268
+Sweden: 254
+Czechia: 222
+Japan: 195
+Singapore: 194
+Russia: 174
+Canada: 147
+Türkiye: 146
+Switzerland: 138
+Spain: 111
+Italy: 96
+United Arab Emirates: 87
+Moldova: 80
+Austria: 79
+Greece: 65
+Estonia: 55
+South Korea: 49
+Israel: 37
+Luxembourg: 32
+India: 31
+Malaysia: 28
+Ecuador: 28
+Argentina: 28
+Serbia: 27
+Cyprus: 24
+Taiwan: 22
+Mexico: 19
+Indonesia: 18
+Thailand: 18
+Bahrain: 17
+China: 16
+Brazil: 16
+Romania: 14
+Bolivia: 14
+Slovenia: 12
+Seychelles: 12
+Myanmar: 10
+Hong Kong: 7
 Failed: 6
-Hong Kong: 6
-Kazakhstan: 5
-Morocco: 4
-Bulgaria: 3
-South Africa: 2
+Kazakhstan: 6
+Morocco: 5
+Bulgaria: 4
+South Africa: 3
+Denmark: 1
