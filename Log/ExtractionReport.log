@@ -1,34 +1,34 @@
 === Server Type Summary New ===
-VMESS        Servers: 8
-VLESS        Servers: 24
-SS           Servers: 9
-TROJAN       Servers: 6
+VMESS        Servers: 5
+VLESS        Servers: 28
+SS           Servers: 11
+TROJAN       Servers: 7
 TUIC         Servers: 0
 
 === Server Type Summary All ===
-VMESS        Servers: 267
-VLESS        Servers: 753
-SS           Servers: 309
-TROJAN       Servers: 132
+VMESS        Servers: 272
+VLESS        Servers: 781
+SS           Servers: 320
+TROJAN       Servers: 139
 TUIC         Servers: 0
 
 === Extraction Summary New ===
-Total Extracted Servers: 47
+Total Extracted Servers: 51
 Successful Channels:     11
 Failed Channels:         0
 
 === Extraction Summary All ===
-Total Extracted Servers: 91
+Total Extracted Servers: 98
 Successful Channels:     22
 Failed Channels:         0
 
 === Channel Statistics ================== 
 Telegram Channels Names============Total Servers === New Servers === Successful === Failed 
-https://t.me/s/v2ray_free_conf     :      16     ===      16     ===     1    ===   0   
-https://t.me/s/FarahVPN            :      12     ===      12     ===     1    ===   0   
-https://t.me/s/ConfigsHUB2         :      8      ===      8      ===     1    ===   0   
-https://t.me/s/vmesc               :      5      ===      5      ===     1    ===   0   
-https://t.me/s/vmess_ir            :      5      ===      5      ===     1    ===   0   
+https://t.me/s/v2ray_free_conf     :      17     ===      17     ===     1    ===   0   
+https://t.me/s/ConfigsHUB2         :      14     ===      14     ===     1    ===   0   
+https://t.me/s/FarahVPN            :      9      ===      9      ===     1    ===   0   
+https://t.me/s/vmess_ir            :      6      ===      6      ===     1    ===   0   
+https://t.me/s/vmesc               :      4      ===      4      ===     1    ===   0   
 https://t.me/s/V2aryng_vpn         :      1      ===      1      ===     1    ===   0   
 https://t.me/s/Hope_Net            :      0      ===      0      ===     1    ===   0   
 https://t.me/s/V2ra_ng_iran        :      0      ===      0      ===     1    ===   0   
