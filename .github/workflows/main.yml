@@ -1,3 +1,4 @@
+
 name: Update Configs
 permissions: write-all
 
@@ -6,10 +7,9 @@ on:
     branches:
       - main
   schedule:
-   - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch: 
+    - cron: '0 */6 * * *'
 
-
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,21 +22,26 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.11'
-
-    - name: Install dependencies
-      run:  pip install -r requirements.txt
-
-    - name: Run Python script and save output to file
-      run:  python app.py
+        
+    - name: Stash any local changes
+      run: git stash
       
+    - name: Install dependencies
+      run: cd files && pip install -r requirements.txt
 
+    - name: Run Config script and save output to file
+      run:   python app.py
+      
+        
     - name: Commit and push files
       uses: EndBug/add-and-commit@v7
       with:
-        author_name: "FereydoonEisapour"
-        author_email: "epfereydoon@gmail.com"
-        message: "new server🎉🎉"
+        author_name: "Github Actions"
+        author_email: "actions@github.com"
+        message: "Updated  🎉"
         add: "."
         push: "https://github.com/FereydoonEisapour/Telegram-configs.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+
