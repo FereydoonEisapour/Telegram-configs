@@ -1,2 +1,0 @@
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.111.114.246:9102#%F0%9F%87%A8%F0%9F%87%A6CA-38.111.114.246-18004#ماتسوری
-vless://1c8ea5a2-e986-42d6-9039-867aed7ca528@178.128.236.252:443?security=reality&encryption=none&pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&headerType=none&fp=firefox&type=tcp&sni=isna.ir&sid=15bf9cd93a696bc5#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2Fproxy_emperor@proxy_emperor
