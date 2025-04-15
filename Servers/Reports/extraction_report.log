@@ -1,45 +1,48 @@
 === Country Statistics ===
-Total Servers: 7245
-Successful Geo-IP Resolutions: 516
-Failed Geo-IP Resolutions: 6729
-Unknown              : 142
-France               : 51
-Germany              : 50
-United States        : 47
-The Netherlands      : 45
-Sweden               : 34
-Lithuania            : 27
-United Kingdom       : 20
-Iran                 : 15
-Finland              : 14
-Russia               : 8
-Spain                : 7
+Total Servers: 7467
+Successful Geo-IP Resolutions: 481
+Failed Geo-IP Resolutions: 6986
+Unknown              : 122
+Germany              : 56
+United States        : 50
+Sweden               : 41
+France               : 34
+Finland              : 33
+United Kingdom       : 24
+Lithuania            : 23
+The Netherlands      : 21
+Iran                 : 12
+Hong Kong            : 10
 Ireland              : 7
-Czechia              : 7
-Italy                : 6
-Hong Kong            : 5
-Singapore            : 5
-Türkiye              : 4
-South Korea          : 4
-Switzerland          : 4
-Japan                : 4
+United Arab Emirates : 5
+Russia               : 5
+Türkiye              : 5
+Poland               : 4
 Austria              : 3
-United Arab Emirates : 2
+Seychelles           : 3
+South Korea          : 3
+Switzerland          : 3
+Spain                : 2
+Canada               : 2
+Taiwan               : 2
+China                : 2
+Luxembourg           : 2
+Japan                : 2
 Iceland              : 1
-Romania              : 1
-Australia            : 1
-Poland               : 1
-Estonia              : 1
+Moldova              : 1
+Serbia               : 1
+Bahrain              : 1
+Singapore            : 1
 
 === Server Type Summary ===
-VLESS                : 4354
-VMESS                : 1283
-SS                   : 974
-TROJAN               : 489
-WIREGUARD            : 68
+VLESS                : 4467
+VMESS                : 1318
+SS                   : 1034
+TROJAN               : 495
+WIREGUARD            : 74
 WARP                 : 50
-HYSTERIA             : 24
-HYSTERIA2            : 24
+HYSTERIA             : 38
+HYSTERIA2            : 12
 TUIC                 : 3
 
 === Channel Statistics ===
@@ -56,37 +59,40 @@ ConfigsHUB2         : 100
 proxy_mtproto_vpns_free: 100
 Hope_Net            : 100
 hope_net            : 100
-v2rayng32           : 82
 v2rayngconfig       : 81
 armodchannel        : 80
+meli_proxyy         : 80
+v2rayngrit          : 75
 PrivateVPNs         : 74
-v2rayngrit          : 71
-meli_proxyy         : 67
+NEW_MTProxi2        : 66
 vpn_ioss            : 65
-NEW_MTProxi2        : 64
 new_mtproxi2        : 64
+v2rayng32           : 60
 orange_vpns         : 60
 wxgmrjdcc           : 58
-Outline_Vpn         : 56
+Outline_Vpn         : 58
+v2aryng_vpn         : 56
+V2aryng_vpn         : 56
 meli_v2rayng        : 53
-v2aryng_vpn         : 52
-V2aryng_vpn         : 52
 disconnectedconfig  : 50
-gh_v2rayng          : 49
+gh_v2rayng          : 50
 vpnserverrr         : 46
 fast_2ray           : 45
 wedbazvpn           : 44
 WedBaZvpn           : 44
+xvproxy             : 43
+hack_proxy          : 43
 pr_guard            : 40
-xvproxy             : 40
+v2rayng_madam       : 39
 nepo_v2ray          : 38
 vmesskhodam         : 38
 v2rayng14           : 38
 azarbayjab1         : 38
+v2ray_free_conf2    : 38
 vpngate_config      : 38
 V2rayNg_madam       : 37
 v2rayngfast         : 37
-v2rayng_madam       : 37
+vistav2ray          : 37
 v2rayn2g            : 36
 v2ray_team          : 36
 yxjnode             : 36
@@ -99,48 +105,48 @@ artemis_vpn_free    : 34
 proxy_v2box         : 34
 config_proxy_ir     : 34
 v2ray_n             : 34
+v2ray1_ng           : 34
 v2rayninja          : 33
 mrv2raay            : 33
-vistav2ray          : 33
 v2rng_free1         : 32
 kafing_2            : 32
 v2ray_youtube       : 32
+chanel_v2ray_2      : 32
 configshub22        : 31
-ConfigsHUB22        : 31
 v2rayvpnclub        : 31
 chv2raynp           : 31
 iran_access         : 30
 vpnvg               : 30
 azad_intrnet        : 30
-chanel_v2ray_2      : 30
-v2ray1_ng           : 30
 alienvpn402         : 30
 v2pedia             : 30
 ir_netproxy         : 29
 kingofilter         : 29
-v2ray_free_conf2    : 29
 proxie              : 29
 speedconfig00       : 28
+freewireguard       : 28
 mafiav2ray          : 28
 vpnowl              : 28
 iran_mehr_vpn       : 27
 hopev2ray           : 26
-freewireguard       : 26
-hope_net2           : 26
 fastkanfig          : 26
-Hope_Net2           : 26
 injectormconf       : 25
 v2rayzone           : 25
 dailyv2ray          : 25
 outline_oneclick1   : 25
 hatunnel_vpn        : 25
+v_2rayng0           : 25
 ehsawn8             : 25
 torang_vpn          : 25
 vmessraygan         : 24
-FarahVPN2           : 24
+hope_net2           : 24
+ConfigsHUB22        : 24
+farahvpn2           : 24
+Hope_Net2           : 24
 garnet_free         : 23
 v2ra_ng_iran        : 23
 V2ra_ng_iran        : 23
+FarahVPN2           : 23
 sinavm              : 23
 vpneti              : 22
 configforvpn        : 22
@@ -150,47 +156,45 @@ bestvpn4030         : 22
 sobi_vpn            : 22
 free1_vpn           : 22
 vless1              : 22
-farahvpn2           : 22
 v2hamid             : 21
 v2rayng_1378        : 21
+irv2rey             : 21
+v2rayng_account_free: 21
 shokhmiplus         : 21
 v2rayngb            : 21
 v2rayngc            : 21
 v2rayng_n2          : 21
-v_2rayng0           : 21
+HuiGuo62            : 21
 xnxv2ray            : 21
+huiguo62            : 21
 vpnfreeo            : 21
 viturey             : 20
+vpnfail_v2ray2      : 20
 v2rayweb            : 20
 free_vpn_for_all_of_us: 20
 vipoutline          : 20
-HuiGuo62            : 20
-huiguo62            : 20
 v2rayproxy          : 20
-hack_proxy          : 20
+jiujied             : 19
 mahanfix            : 19
 GrizzlyVPN          : 19
-irv2rey             : 19
 v2rayngvpnn         : 19
-v2rayng_account_free: 19
 tehron98            : 19
+jiuJieD             : 19
 v2range             : 19
+jiedianF            : 19
+jiedianssr          : 19
 starconfigs1        : 19
+jiedianf            : 19
 digiv2ray23         : 18
-jiujied             : 18
 vpidiamond          : 18
 lockey_vpn          : 18
 v2rayngv            : 18
 vpn_v2ra_ng         : 18
-jiuJieD             : 18
 mtpv2ray            : 18
 mrclud              : 18
 v2ryng0             : 18
 freevpn3327         : 18
-jiedianF            : 18
-jiedianssr          : 18
 cryptoguardvpn      : 18
-jiedianf            : 18
 v2rayvmess          : 17
 v2rayy_vpn13        : 17
 v2ray_iran88        : 17
@@ -199,22 +203,22 @@ v2rayngconfings     : 17
 realvpnmaster       : 17
 v2ryngfree          : 16
 v2rayngconfiig      : 16
+selinc              : 16
 freedom_config      : 16
 parsv2ray1          : 16
 world_vmess         : 16
 v2rayngvp           : 16
 khoneproxy          : 16
+vmess_ir2           : 16
 psiphonf            : 15
 v2raying            : 15
-selinc              : 15
 vmess_iran          : 15
 v2rayng_147         : 15
 customv2ray         : 15
 v2rayngvvpn         : 14
 free_vip3           : 14
-vpnfail_v2ray2      : 14
 v2raynselling       : 14
-vmesc2              : 14
+golestan_vpn        : 14
 royal_shop87        : 14
 NoForcedHeaven      : 14
 vmessiranproxy      : 14
@@ -234,13 +238,12 @@ v2rayngim           : 13
 poroxybaz2          : 13
 icloudyshop         : 13
 net_azad_1          : 13
-vmess_ir2           : 13
 bemolatext          : 13
 iranservers_official: 13
 bluevpn_v2ray       : 12
 teamvpnpro          : 12
-golestan_vpn        : 12
 Ahmedhamoomi_Servers: 12
+vmesc2              : 12
 configt             : 12
 proxy_mtproto_vpns_free2: 12
 univstar            : 12
@@ -279,6 +282,7 @@ goodbyefiltering    : 8
 iransoftware90      : 8
 yaney_01            : 8
 mr_vpn123           : 8
+vpnplus100          : 8
 trand_farsi         : 8
 anix_v2ray          : 8
 v2rayng_lion        : 7
@@ -314,9 +318,9 @@ fati_ffx            : 6
 v2ray_vemo          : 6
 private_access_guard_vpn: 6
 ponv2ray            : 6
+noviin_tel          : 6
 vmessx              : 6
 star_hack_100       : 6
-vpnplus100          : 6
 free_nettm          : 6
 freeconfigvpns      : 6
 mi_pn_official      : 5
@@ -329,7 +333,6 @@ configsstore        : 5
 v2rayng_ge          : 5
 outline_kod         : 5
 turbov2r            : 5
-noviin_tel          : 5
 hormozvpn           : 5
 hot_v2ry            : 5
 vpnservergprc       : 5
@@ -368,6 +371,7 @@ vpnconfignet        : 2
 ntgreenplus         : 2
 drvpn_net           : 2
 alo_v2rayng         : 2
+payam_nsi           : 2
 v2rayng_13          : 2
 otana_vpn           : 2
 mood_tarinhaa       : 2
