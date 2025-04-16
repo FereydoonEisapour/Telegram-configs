@@ -34,10 +34,10 @@ SLEEP_TIME = 1                                          # Time to sleep between 
 BATCH_SIZE = 10                                         # Number of channels to process before pausing
 FETCH_CONFIG_LINKS_TIMEOUT = 10                         # Timeout for fetching configuration links from channels
 
-MAX_CHANNEL_SERVERS = 100                               # Maximum number of servers to store per channel file
+MAX_CHANNEL_SERVERS = 50                               # Maximum number of servers to store per channel file
 MAX_PROTOCOL_SERVERS = 1000                              # Maximum number of servers to store per protocol file
 MAX_REGION_SERVERS = 1000                               # Maximum number of servers to store per region file
-MAX_MERGED_SERVERS = 1000                               # Maximum number of servers to store in the merged file
+MAX_MERGED_SERVERS = 10000                               # Maximum number of servers to store in the merged file
 
 # ========================
 # Critical File Paths
