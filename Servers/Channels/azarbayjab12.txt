@@ -1,5 +1,5 @@
-vless://a7476853-e660-4667-98d2-027c163727ae@84.47.239.199:80?path=%3F...TM%40AZAFBAYJB1...TM%40AZAFBAYJB1...TM%40AZAFBAYJB1...%2F&security=none&encryption=none&host=Leader.ir&type=ws#🇮🇷TM@AZARBAYJAB1
-vless://0ff570d3-3452-4990-8144-fd2cb9357e09@104.18.14.19:8080?path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=925tg.s4ua8zqr.workers.dev&type=ws#🇨🇦@Azarbayjab1
-vless://4a58fbe1-9d81-431f-9ea6-a22515a5af86@51.89.140.135:5454?security=reality&encryption=none&pbk=lEwhnzi-AXac0OKNifuFXiXb6lZ3KBesYcnOtskui3o&fp=chrome&type=grpc&serviceName=mgrpcmn&sni=refersion.com&sid=f49fd7abeda30e80#AZARBAYJAB1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.35:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#⚜️🇺🇲@AZARBAYJAB1⚜️GPRS⚜️vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#⚜️🇺🇲@AZARBAYJAB1⚜️GPRS⚜️
-vless://a7476853-e660-4667-98d2-027c163727ae@84.47.239.199:80?path=%3F...TM%40AZAFBAYJB1...TM%40AZAFBAYJB1...TM%40AZAFBAYJB1...%2F&security=none&encryption=none&host=Leader.ir&type=ws#🇮🇷TM@AZARBAYJAB1⚙️
+vless://4a58fbe1-9d81-431f-9ea6-a22515a5af86@213.142.134.9:6900?security=reality&encryption=none&pbk=1_9XT9SMmExJYv7ejpQwzYTXmZlqX7grBo5KNxk_IFE&headerType=&fp=chrome&type=tcp&sni=Uplader-Game.zx-shop.ir&sid=f49fd7abeda30e80#AZARBAYJAB1
+vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=&encryption=none&type=ws#AZARBAYJAB1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%20🇹🇷AZARBAYJAB1⚙️
+vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@145.239.139.107:37826?security=none&encryption=none&host=tabrizm137.com&headerType=http&type=tcp#🇩🇪@AZARBAYJAB1
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.129.11:443?path=%2FTelegram%40AstroVPN_Official%2F%3D37.1.195.124&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#%40AZARBAYJABl%20%F0%9F%87%AC%F0%9F%87%A7

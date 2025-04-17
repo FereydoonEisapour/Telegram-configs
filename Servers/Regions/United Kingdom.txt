@@ -166,3 +166,5 @@ vless://379a7f53-fddf-460f-8a62-52330c0d9cf5@91.193.59.187:8880?security=none&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40V2rayNGVPN
 trojan://telegram-id-privatevpns@35.177.215.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.11.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇬🇧t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.1.192:443#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportvless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.1.192:443#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportvless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
