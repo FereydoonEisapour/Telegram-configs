@@ -1,6 +1,3 @@
-vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇳🇱@AZARBAYJAB1(GPRS)vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇳🇱@AZARBAYJAB1(GPRS)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#⚙️
-vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:8080?path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%2F%3Fed%3D2560&security=none&encryption=none&host=anTiFiLTEr.dOXAs38496.wOrkErs.dEV&type=ws#@AZARBAYJAB1⚙️
-vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082?path=%2Fnet.net%3Fed%3D2560&security=none&encryption=none&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&type=ws#@AZARBAYJAB1⚙️
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?security=&encryption=none&type=grpc#AZARBAYJAB1
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?path=%2F---TM-%40AZARBAYJAB1-------TM-%40AZARBAYJAB1---------TM-%40AZARBAYJAB1---join%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#%40AZARBAYJAB1
+vless://4a58fbe1-9d81-431f-9ea6-a22515a5af86@213.142.134.9:6900?security=reality&encryption=none&pbk=1_9XT9SMmExJYv7ejpQwzYTXmZlqX7grBo5KNxk_IFE&headerType=&fp=chrome&type=tcp&sni=Uplader-Game.zx-shop.ir&sid=f49fd7abeda30e80#AZARBAYJAB1
+vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇳🇱@AZARBAYJAB1(GPRS)
+vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@145.239.139.107:37826?security=none&encryption=none&host=tabrizm137.com&headerType=http&type=tcp#🇩🇪@AZARBAYJAB1⚙️
