@@ -79,3 +79,4 @@ trojan://telegram-id-directvpn@52.213.128.155:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.213.128.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.213.128.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHubϟ
 trojan://telegram-id-privatevpns@52.213.128.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.48.82.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇮🇪t.me/PrivateVPNs
