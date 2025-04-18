@@ -1,47 +1,47 @@
 === Country Statistics ===
-Total Servers: 8701
-Successful Geo-IP Resolutions: 4246
-Failed Geo-IP Resolutions: 4455
+Total Servers: 8863
+Successful Geo-IP Resolutions: 4324
+Failed Geo-IP Resolutions: 4539
 Unknown              : 1000
-United States        : 486
-Germany              : 422
-France               : 294
-Sweden               : 293
-The Netherlands      : 286
-Lithuania            : 262
+United States        : 500
+Germany              : 432
+France               : 301
+Sweden               : 299
+The Netherlands      : 288
+Lithuania            : 272
+United Kingdom       : 172
 Iran                 : 170
-United Kingdom       : 170
-Finland              : 122
+Finland              : 123
 Ireland              : 76
-Türkiye              : 54
+Türkiye              : 56
 Russia               : 51
 Hong Kong            : 49
 South Korea          : 46
+Singapore            : 44
 Switzerland          : 43
-Singapore            : 40
+Czechia              : 40
 Japan                : 38
-Spain                : 35
+Spain                : 37
 Poland               : 35
-Czechia              : 34
 United Arab Emirates : 33
 Canada               : 23
-Moldova              : 13
-Brazil               : 13
+Brazil               : 16
+Moldova              : 15
+Romania              : 13
 Italy                : 13
-Romania              : 12
+Cyprus               : 12
 Austria              : 9
 Ukraine              : 9
 Australia            : 8
-Cyprus               : 8
 Bulgaria             : 7
 China                : 7
+Vietnam              : 6
 Luxembourg           : 6
 Seychelles           : 5
 Malaysia             : 5
 Greece               : 5
 Israel               : 5
 Estonia              : 5
-Vietnam              : 4
 Gibraltar            : 4
 Bahrain              : 4
 Mexico               : 4
@@ -67,12 +67,12 @@ South Africa         : 1
 Armenia              : 1
 
 === Server Type Summary ===
-VLESS                : 5201
-VMESS                : 1498
-SS                   : 1235
-TROJAN               : 603
+VLESS                : 5272
+VMESS                : 1532
+SS                   : 1277
+TROJAN               : 616
 WIREGUARD            : 84
-WARP                 : 50
+WARP                 : 52
 HYSTERIA             : 45
 HYSTERIA2            : 19
 TUIC                 : 3
@@ -116,7 +116,7 @@ new_mtproxi2        : 50
 xvproxy             : 49
 v2rayng33           : 49
 vistav2ray          : 48
-hack_proxy          : 46
+hack_proxy          : 48
 fast_2ray           : 45
 vmesskhodam         : 44
 pr_guard            : 40
@@ -138,19 +138,22 @@ chanel_v2ray_2      : 36
 itv2ray             : 36
 v2conf              : 36
 frev2rayng          : 35
+chv2raynp           : 35
 artemis_vpn_free    : 34
 proxy_v2box         : 34
 config_proxy_ir     : 34
 v2ray_n             : 34
+Hope_Net2           : 34
 v2rayninja          : 33
 mrv2raay            : 33
 kingofilter         : 33
 v2rng_free1         : 32
 v2ray_youtube       : 32
 v2rayvpnclub        : 31
-chv2raynp           : 31
+v2ray_free_conf2    : 31
 iran_access         : 30
 vpnvg               : 30
+hope_net2           : 30
 azad_intrnet        : 30
 vpnowl              : 30
 alienvpn402         : 30
@@ -163,14 +166,17 @@ v2rayng_account_free: 28
 shokhmiplus         : 28
 mafiav2ray          : 28
 iran_mehr_vpn       : 27
-v2ray_free_conf2    : 27
 sinavm              : 27
+FarahVPN2           : 26
+farahvpn2           : 26
 fastkanfig          : 26
 injectormconf       : 25
 irv2rey             : 25
 v2rayzone           : 25
+configshub22        : 25
 dailyv2ray          : 25
 outline_oneclick1   : 25
+ConfigsHUB22        : 25
 hatunnel_vpn        : 25
 v_2rayng0           : 25
 ehsawn8             : 25
@@ -178,12 +184,12 @@ v2rayproxy          : 25
 torang_vpn          : 25
 GrizzlyVPN          : 24
 vmessraygan         : 24
-hope_net2           : 24
 free1_vpn           : 24
 proxystore11        : 23
 garnet_free         : 23
 v2ra_ng_iran        : 23
 V2ra_ng_iran        : 23
+vpnfail_v2ray2      : 22
 vpneti              : 22
 configforvpn        : 22
 v2freenet           : 22
@@ -201,16 +207,13 @@ xnxv2ray            : 21
 huiguo62            : 21
 vpnfreeo            : 21
 viturey             : 20
-vpnfail_v2ray2      : 20
 v2rayweb            : 20
 free_vpn_for_all_of_us: 20
 vipoutline          : 20
-FarahVPN2           : 20
-farahvpn2           : 20
-Hope_Net2           : 20
 jiujied             : 19
 mahanfix            : 19
 v2rayngvpnn         : 19
+selinc              : 19
 tehron98            : 19
 jiuJieD             : 19
 v2range             : 19
@@ -220,7 +223,6 @@ starconfigs1        : 19
 jiedianf            : 19
 digiv2ray23         : 18
 vpidiamond          : 18
-selinc              : 18
 lockey_vpn          : 18
 v2rayngv            : 18
 vpn_v2ra_ng         : 18
@@ -256,6 +258,7 @@ royal_shop87        : 14
 NoForcedHeaven      : 14
 vmessiranproxy      : 14
 configt             : 14
+proxy_mtproto_vpns_free2: 14
 darkma3ter24        : 14
 buffalo_vpn         : 14
 v2rayo7ybv67i76     : 14
@@ -279,27 +282,27 @@ teamvpnpro          : 12
 Ahmedhamoomi_Servers: 12
 Outline_Vpn2        : 12
 univstar            : 12
-vmess_ir2           : 12
 vpnv2rayonline      : 11
 v2rayspeed          : 11
-proxy_mtproto_vpns_free2: 11
+azarbayjab12        : 11
 v2rayservere        : 11
 aryoovpn            : 10
 v2rayvx             : 10
 maradona_vpn        : 10
-configshub22        : 10
 vpn_v2ray_v2        : 10
 next_serverpanel    : 10
 lazarus2050         : 10
 freev2rayi          : 10
 ammar_taraz         : 10
-ConfigsHUB22        : 10
 narcod_ping         : 10
+vmess_ir2           : 10
 maxvpnc             : 10
 Gozargah_Azadi      : 10
 exoping             : 9
+new_mtproxi22       : 9
 iranbfilter         : 9
 thevictorvpn        : 9
+NEW_MTProxi22       : 9
 v2ray_vpna          : 9
 v2ray_reality_new   : 9
 VipFastSpeed        : 9
@@ -311,9 +314,7 @@ v2rez               : 8
 mahdivpn2           : 8
 v2rray_ng           : 8
 vpncostume          : 8
-new_mtproxi22       : 8
 proxy_emperor       : 8
-NEW_MTProxi22       : 8
 vpray3              : 8
 lion_channel_vpn2   : 8
 goodbyefiltering    : 8
@@ -332,7 +333,6 @@ v2rayang201         : 7
 vip_freevpn1        : 7
 freakconfig2        : 7
 tov2rayy            : 7
-orange_vpns2        : 7
 vipv2rayvip         : 7
 sajad_titan_s_t_n_v2ray: 7
 v2ray4win           : 7
@@ -355,6 +355,7 @@ filtershkan2        : 6
 persian_proxy6      : 6
 fati_ffx            : 6
 v2ray_vemo          : 6
+meli_proxyy2        : 6
 private_access_guard_vpn: 6
 ponv2ray            : 6
 vmessx              : 6
@@ -365,13 +366,9 @@ mi_pn_official      : 5
 janusvpn            : 5
 freeshadowsock      : 5
 REDFREE8            : 5
-V2aryng_vpn2        : 5
 mrvpn1403           : 5
-v2aryng_vpn2        : 5
 freevmess           : 5
-azarbayjab12        : 5
 configsstore        : 5
-meli_proxyy2        : 5
 v2rayng_ge          : 5
 outline_kod         : 5
 turbov2r            : 5
@@ -390,6 +387,8 @@ custom_config       : 4
 castom_v2ray        : 4
 WedBaZvpn2          : 4
 merdesert           : 4
+V2aryng_vpn2        : 4
+v2aryng_vpn2        : 4
 qafor_1             : 4
 ir_config_an        : 4
 V2rayHup            : 4
@@ -404,12 +403,12 @@ atovpn              : 4
 javid_iran_vpn      : 4
 v2raymastermind     : 4
 filter5050          : 3
-vpnserverrr2        : 3
 phiilshekn          : 3
 sevenvpnchannel     : 3
 dailytek            : 3
 fasst_vpn           : 3
 shadowsocksserv     : 3
+orange_vpns2        : 3
 proxy_kafee         : 3
 vipnetmeli          : 3
 goldenvpn_v2rayy    : 3
@@ -418,11 +417,11 @@ fnet00              : 3
 freevlessvpn        : 2
 vpnconfignet        : 2
 ntgreenplus         : 2
+vpnserverrr2        : 2
 drvpn_net           : 2
 alo_v2rayng         : 2
 v2rayng_13          : 2
 otana_vpn           : 2
-wxgmrjdcc2          : 2
 mood_tarinhaa       : 2
 kesslervpn          : 2
 napsterntvtm        : 2
@@ -438,6 +437,7 @@ proxy_kuto          : 2
 gh_v2rayng2         : 2
 v22rayngg           : 1
 server444           : 1
+wxgmrjdcc2          : 1
 jd_vpn              : 1
 V2ray_market11      : 1
 vpnradin            : 1
