@@ -1,2 +1,2 @@
-vless://4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@www.speedtest.net:8880?path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=&encryption=none&host=wedbaz.websitexp.ddns-ip.net.&type=httpupgrade#WedBaZ
-vless://5b034e2b-d0f0-4929-a33a-85500a84c685@soft98.ir.p31download.com:8080?path=%2FJoin--HAJIMAMADVPN%3Fed%3D8080&security=&encryption=none&host=sNaPp.TiMeClAsSiC.iR.&type=httpupgrade#WedbaZtel
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@49.13.57.28:2087?security=reality&encryption=none&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&fp=chrome&type=grpc&sni=www.target.com&sid=bc6f0833#WedBazTel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#WedBazTel
