@@ -162,3 +162,7 @@ vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&t
 vless://19f752c6-a3ea-4e71-adb8-423456e2cab0@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#@summertimeus🎀
 vless://19f752c6-a3ea-4e71-adb8-423456e2cab0@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#@summertimeus
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?type=tcp&security=none#t@USA02
+vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHubϟ
+vless://223d408c-ed85-4c50-942a-b79e8a178a76@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#@summertimeus
+vless://223d408c-ed85-4c50-942a-b79e8a178a76@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#@summertimeus🎀
