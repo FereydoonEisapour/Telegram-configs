@@ -1,4 +1,6 @@
-vless://59cb1173-2495-4d02-914e-dfb7ddfe9f79@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=today-db-load.com&type=xhttp&sni=mio.splashthat.com#custom_config
-vless://4e513e26-e5b9-4bd6-88d0-ac3dc4aeb2d4@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=it-cdn-db-download.ir&type=xhttp#%40custom_config
-vless://4e513e26-e5b9-4bd6-88d0-ac3dc4aeb2d4@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=it-cdn-db-download.ir&type=xhttp#%40custom_config🔺تنظیمات
+vless://acdf5214-327f-41df-980b-5989f8ef47ed@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40custom_config@custom_config
+vless://acdf5214-327f-41df-980b-5989f8ef47ed@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40custom_config
 vless://59cb1173-2495-4d02-914e-dfb7ddfe9f79@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=today-db-load.com&type=xhttp&sni=mio.splashthat.com#custom_config⛔️
+vless://4e513e26-e5b9-4bd6-88d0-ac3dc4aeb2d4@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=it-cdn-db-download.ir&type=xhttp#%40custom_config
+vless://59cb1173-2495-4d02-914e-dfb7ddfe9f79@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=today-db-load.com&type=xhttp&sni=mio.splashthat.com#custom_config
+vless://4e513e26-e5b9-4bd6-88d0-ac3dc4aeb2d4@151.101.194.133:80?mode=auto&path=%2F&security=none&encryption=none&host=it-cdn-db-download.ir&type=xhttp#%40custom_config🔺تنظیمات
