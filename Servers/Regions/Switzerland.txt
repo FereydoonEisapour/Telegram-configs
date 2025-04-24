@@ -49,3 +49,5 @@ vless://a9c53545-11b9-4373-ba83-0047947a5180@84.234.28.144:10?mode=auto&path=%2F
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yapc-1.afshin.ir&fp=chrome&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yapc-1.afshin.ir&fp=chrome&allowInsecure=1#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://a9c53545-11b9-4373-ba83-0047947a5180@84.234.28.144:10?mode=auto&path=%2F&security=reality&encryption=none&pbk=QBr0SftwGBpVvwMezn62mSo45Q2JEkjsKxonz7BxAFE&fp=chrome&spx=%2FDRAGON&type=xhttp&sni=yahoo.com&sid=fd7b#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%F0%9F%87%A8%F0%9F%87%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%AD%20CH-204.136.10.115%3A1866🤯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%AD%20CH-204.136.10.115%3A1866
